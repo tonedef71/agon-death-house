@@ -1533,7 +1533,7 @@
 25730 ENDPROC
 25740 :
 25750 REM ::::::::::::::::::::::::::::::::
-25760 REM ::  We"re In The Money Theme  ::
+25760 REM ::  We're In The Money Theme  ::
 25770 REM ::::::::::::::::::::::::::::::::
 25780 DEF PROC_WERE_IN_THE_MONEY_THEME
 25790 PROC_PLAY("157004169006157002161004169012"):REM PITCH,DURATION
