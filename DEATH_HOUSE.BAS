@@ -179,9 +179,9 @@
 11780 PROC_ALL_TEXT
 11790 ENDPROC
 11800 :
-11810 REM ::::::::::::::::::::::::::::::::::
-11820 REM :: Common avaiable game actions ::
-11830 REM ::::::::::::::::::::::::::::::::::
+11810 REM :::::::::::::::::::::::::::::::::::
+11820 REM :: Common available game actions ::
+11830 REM :::::::::::::::::::::::::::::::::::
 11840 DEF PROC_COMMON_CHOICES
 11850 CLS:PROC_SUSPENSE(20, ASC("-"), 20)
 11860 AC$(1)="Check the time"
