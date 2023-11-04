@@ -222,7 +222,7 @@
 12210 REM ::::::::::::::::::::::
 12220 DEF PROC_STRANGLED
 12230 PROC_INIT_STORY_FILE("92")
-12240 PROC_WRITE_STORY_FILE("Just as your getting all snuggled in,")
+12240 PROC_WRITE_STORY_FILE("Just as you're getting all snuggled in,")
 12250 PROC_WRITE_STORY_FILE(" strong hands seize you roughly by the")
 12260 PROC_WRITE_STORY_FILE(" throat. Your eyes open wide, but you")
 12270 PROC_WRITE_STORY_FILE(" can't see who's strangling you. Slowly,")
