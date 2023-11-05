@@ -10,7 +10,7 @@ The object of Death House is to stay alive for a full hour while locked in the c
 ## Display
 Death House has been coded to play on a mode that supports a minimum of 16 colors and minimum screen dimensions of 40 columns by 22 rows.
 
-On BBC BASIC SDL, MODE 9 is supported, and on the Agon Light, MODE 2 is supported.
+On BBC BASIC SDL, MODE 9 is supported, and on the Agon Light, MODE 2 (legacy) and MODE 8 (current) is supported.
 
 ## Controls
 Use the up and down arrow keys to highlight the choice of the action you wish to follow, and then press the Enter key to confirm the selection.
